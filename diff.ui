@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>500</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>90</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe Print</family>
+     <pointsize>22</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>f(x) =</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>230</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe Print</family>
+     <pointsize>22</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>f'(x) =</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>390</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe Print</family>
+     <pointsize>22</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>f''(x) =</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>570</x>
+     <y>70</y>
+     <width>151</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Вычислить</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="fxxoutput">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>220</y>
+     <width>251</width>
+     <height>71</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="fxxxoutput">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>370</y>
+     <width>251</width>
+     <height>71</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="fxinput">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>80</y>
+     <width>251</width>
+     <height>71</height>
+    </rect>
+   </property>
+  </widget>
+  <zorder>pushButton</zorder>
+  <zorder>label</zorder>
+  <zorder>label_2</zorder>
+  <zorder>label_3</zorder>
+  <zorder>fxxoutput</zorder>
+  <zorder>fxxxoutput</zorder>
+  <zorder>fxinput</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

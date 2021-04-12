@@ -2,9 +2,11 @@
 Текстовый редактор: https://github.com/vsvad/programs-for-teachers/tree/text_editor  
 Робот-исполнитель: https://github.com/vsvad/programs-for-teachers/tree/robo  
 Блокировка экрана и передача сообщений: https://github.com/vsvad/programs-for-teachers/tree/screen  
-Дифференцирование(вычисление первой и второй производной): https://github.com/vsvad/programs-for-teachers/tree/Derivative   
-Интегрирование: https://github.com/vsvad/programs-for-teachers/tree/integral  
-Построение графиков функций: https://github.com/vsvad/programs-for-teachers/tree/Graph  
+\* Дифференцирование(вычисление первой и второй производной): https://github.com/vsvad/programs-for-teachers/tree/Derivative   
+\* Интегрирование: https://github.com/vsvad/programs-for-teachers/tree/integral  
+\* Построение графиков функций: https://github.com/vsvad/programs-for-teachers/tree/Graph  
+  
+\* - часть Помогатора
 # Формат
 1. Компилируется с помощью `build.sh` или `build.bat` (если на Python, то `build.sh` или `build.bat` может быть пустым)
 2. Выполняется с помощью `run.sh` или `run.bat`

@@ -1,5 +1,6 @@
 # Ссылки
 Текстовый редактор: https://github.com/vsvad/programs-for-teachers/tree/text_editor  
+Текстовый редактор: https://github.com/vsvad/programs-for-teachers/tree/text_editor_with_cheking  
 !Робот-исполнитель: https://github.com/vsvad/programs-for-teachers/tree/robo  
 Блокировка экрана и передача сообщений: https://github.com/vsvad/programs-for-teachers/tree/screen  
 \* Дифференцирование(вычисление первой и второй производной): https://github.com/vsvad/programs-for-teachers/tree/Derivative   
